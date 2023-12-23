@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/webdevify-studio/static/css/main.fa6dd141.css",
-    "main.js": "/webdevify-studio/static/js/main.be21b28f.js",
+    "main.css": "/webdevify-studio/static/css/main.5a42cbf3.css",
+    "main.js": "/webdevify-studio/static/js/main.db86ff34.js",
     "static/js/787.9e9f4ffd.chunk.js": "/webdevify-studio/static/js/787.9e9f4ffd.chunk.js",
+    "static/media/photo-1419242902214-272b3f66ee7a.webp": "/webdevify-studio/static/media/photo-1419242902214-272b3f66ee7a.f297eb51091932f3f8de.webp",
     "index.html": "/webdevify-studio/index.html",
-    "main.fa6dd141.css.map": "/webdevify-studio/static/css/main.fa6dd141.css.map",
-    "main.be21b28f.js.map": "/webdevify-studio/static/js/main.be21b28f.js.map",
+    "main.5a42cbf3.css.map": "/webdevify-studio/static/css/main.5a42cbf3.css.map",
+    "main.db86ff34.js.map": "/webdevify-studio/static/js/main.db86ff34.js.map",
     "787.9e9f4ffd.chunk.js.map": "/webdevify-studio/static/js/787.9e9f4ffd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa6dd141.css",
-    "static/js/main.be21b28f.js"
+    "static/css/main.5a42cbf3.css",
+    "static/js/main.db86ff34.js"
   ]
 }
